@@ -1,6 +1,6 @@
-package com.rockstars.techscreening.dao;
+package com.simple.springapi.dao;
 
-import com.rockstars.techscreening.model.Artist;
+import com.simple.springapi.model.Artist;
 
 import java.util.List;
 import java.util.Optional;

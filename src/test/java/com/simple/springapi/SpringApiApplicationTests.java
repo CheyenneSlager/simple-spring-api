@@ -1,10 +1,10 @@
-package com.rockstars.techscreening;
+package com.simple.springapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TechScreeningApplicationTests {
+class SpringApiApplicationTests {
 
 	@Test
 	void contextLoads() {

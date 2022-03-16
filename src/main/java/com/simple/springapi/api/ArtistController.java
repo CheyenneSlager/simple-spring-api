@@ -1,8 +1,8 @@
-package com.rockstars.techscreening.api;
+package com.simple.springapi.api;
 
-import com.rockstars.techscreening.exception.ItemNotFoundException;
-import com.rockstars.techscreening.model.Artist;
-import com.rockstars.techscreening.service.ArtistService;
+import com.simple.springapi.exception.ItemNotFoundException;
+import com.simple.springapi.model.Artist;
+import com.simple.springapi.service.ArtistService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

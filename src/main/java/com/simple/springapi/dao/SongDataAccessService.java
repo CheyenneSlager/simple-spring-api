@@ -1,6 +1,6 @@
-package com.rockstars.techscreening.dao;
+package com.simple.springapi.dao;
 
-import com.rockstars.techscreening.model.Song;
+import com.simple.springapi.model.Song;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

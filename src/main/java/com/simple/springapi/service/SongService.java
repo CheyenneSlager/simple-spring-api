@@ -1,7 +1,7 @@
-package com.rockstars.techscreening.service;
+package com.simple.springapi.service;
 
-import com.rockstars.techscreening.dao.SongDao;
-import com.rockstars.techscreening.model.Song;
+import com.simple.springapi.dao.SongDao;
+import com.simple.springapi.model.Song;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

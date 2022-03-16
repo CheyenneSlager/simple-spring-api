@@ -1,4 +1,4 @@
-package com.rockstars.techscreening.model;
+package com.simple.springapi.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

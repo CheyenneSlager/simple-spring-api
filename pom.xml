@@ -8,11 +8,11 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rockstars</groupId>
-	<artifactId>tech-screening</artifactId>
+	<groupId>com.simple</groupId>
+	<artifactId>spring-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tech-screening</name>
-	<description>Tech screening Java</description>
+	<name>spring-api</name>
+	<description>A simple spring api</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
